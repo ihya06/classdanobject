@@ -1,0 +1,8 @@
+D:\Pemrograman Lanjutan\AplikasiTaxi\AplikasiTaxi\AplikasiTaxi\bin\Debug\AplikasiTaxi.exe.config
+D:\Pemrograman Lanjutan\AplikasiTaxi\AplikasiTaxi\AplikasiTaxi\bin\Debug\AplikasiTaxi.exe
+D:\Pemrograman Lanjutan\AplikasiTaxi\AplikasiTaxi\AplikasiTaxi\bin\Debug\AplikasiTaxi.pdb
+D:\Pemrograman Lanjutan\AplikasiTaxi\AplikasiTaxi\AplikasiTaxi\obj\Debug\AplikasiTaxi.csproj.AssemblyReference.cache
+D:\Pemrograman Lanjutan\AplikasiTaxi\AplikasiTaxi\AplikasiTaxi\obj\Debug\AplikasiTaxi.csproj.SuggestedBindingRedirects.cache
+D:\Pemrograman Lanjutan\AplikasiTaxi\AplikasiTaxi\AplikasiTaxi\obj\Debug\AplikasiTaxi.csproj.CoreCompileInputs.cache
+D:\Pemrograman Lanjutan\AplikasiTaxi\AplikasiTaxi\AplikasiTaxi\obj\Debug\AplikasiTaxi.exe
+D:\Pemrograman Lanjutan\AplikasiTaxi\AplikasiTaxi\AplikasiTaxi\obj\Debug\AplikasiTaxi.pdb
